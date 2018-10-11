@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         myAdapter=new CustomAdapter(this,words,images);
         listView.setAdapter(myAdapter);
         // test1
+//test 2
 
     }
 }
